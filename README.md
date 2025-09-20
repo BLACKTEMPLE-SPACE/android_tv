@@ -26,8 +26,6 @@ Tell us what works, what doesn’t, and what features you’d love to see. Your 
 - ❌ **AWG protocol support**
   *Amnezia Wireguard protocol*
 
-- ❌ **BlackKeyDemon**  
-  *Automatic key rotation and seamless reconnection — no user interaction required*
 
 - ❌ **Ad.ban**  
   *Built-in ad blocker*
@@ -35,8 +33,6 @@ Tell us what works, what doesn’t, and what features you’d love to see. Your 
 - ❌ **ThunderGaming**  
   *Reduced latency for gaming — finds optimal servers and routes*
 
-- ❌ **SaveBlack**  
-  *Battery saver mode — automatic disconnection based on schedule*
 
 ---
 
